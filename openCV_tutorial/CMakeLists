@@ -1,0 +1,3 @@
+cmake_minimun_requird(VERSION 2.6)
+projetc (Tutorial)
+add_executable(Tutorial tutorial.cxx)
